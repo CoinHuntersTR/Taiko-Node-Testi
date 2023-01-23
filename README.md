@@ -73,7 +73,7 @@ Ethereum A1 için Faucetten token isteyin.
 
 * Açıldıktan sonra yön tuşları ile en alta geliyoruz.
 * `ENABLE_PROPOSER` kısmını `true` yapıyoruz
-* `L1_PROPOSER_PRIVATE_KEY=` kısmına metamasktan private key alıyoruz (2. görsele bakın)
+* `L1_PROPOSER_PRIVATE_KEY=` kısmına metamasktan private key alıyoruz.
 * `L2_SUGGESTED_FEE_RECIPIENT=`bu kısımda `Metamask 0x Cüzdan Adresi` olacak
 * sonra CTRL + X + Y ile çıkıyoruz.
 ![matemask-private-key](https://user-images.githubusercontent.com/111747226/214062489-2d490776-a29e-4b2d-9899-46ad5faf534b.png)
