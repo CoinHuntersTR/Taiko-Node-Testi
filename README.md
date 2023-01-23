@@ -56,7 +56,7 @@ nano .env
 ## Bu kısıma devam etmeden önce sıfırdan metamask oluşturup token alıyoruz, veya testnetler için kullandığın metamaskı'ın private key anahtarı gerekiyor.
 ### Metamask Private Key alma;
 > Metamask cüzdanımızı oluşturduktan sonra; Aşağıda bulunan görseldeki adımları takip ederek private key'inizi alabilirsiniz.
-![matemask-private-key](https://user-images.githubusercontent.com/111747226/214060644-f8045d6d-2bd7-47de-80ee-046e859fe9fe.png)
+![matemask-private-key](https://user-images.githubusercontent.com/111747226/214062437-69e144d9-528f-4a17-b46a-a747c1d5284c.png)
 
 ## Taiko Platform Testnet Rehberine  <a href="https://coinhunterstr.com/taiko-genel-platform-testneti/" target="_blank"> Buradan </a>
 
@@ -76,11 +76,10 @@ Ethereum A1 için Faucetten token isteyin.
 * `L1_PROPOSER_PRIVATE_KEY=` kısmına metamasktan private key alıyoruz (2. görsele bakın)
 * `L2_SUGGESTED_FEE_RECIPIENT=`bu kısımda `Metamask 0x Cüzdan Adresi` olacak
 * sonra CTRL + X + Y ile çıkıyoruz.
+![matemask-private-key](https://user-images.githubusercontent.com/111747226/214062489-2d490776-a29e-4b2d-9899-46ad5faf534b.png)
 
-![image](https://user-images.githubusercontent.com/76253089/212540636-32564971-d531-41f2-b2a6-ffc5ef21582c.png)
 
-* Metamasktan 3 noktaya tıklayınca hesap bilgileri kısmında olacak burası:
-![image](https://user-images.githubusercontent.com/101149671/212497188-e5480587-9872-4c0f-abf0-4f6b24839396.png)
+
 
 ## Node'u çalıştırın:
 ```
@@ -88,7 +87,7 @@ docker compose up -d
 ```
 ## Node'unuz çalışıyor kolay gelsin:
 
-![image](https://user-images.githubusercontent.com/101149671/212497350-4cebdcc6-edeb-4949-b18b-a38a83e1a53c.png)
+![taiko-node](https://user-images.githubusercontent.com/111747226/214062692-63e3c271-754f-42a7-a7b0-09a75c690aaa.png)
 
 ## Taiko yatırımını açıklamamış projelerden birisidir.
 
