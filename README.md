@@ -10,7 +10,7 @@
 |  2| 6GB  | 50GB    |
 
  # Daha önce Node kurulumu yapmadıysanız buradan sırasıyla adımları takip ederek tüm süreci öğrenebilirsiniz.
-  ## Yeni Başladım Rehberi; [Coin Hunters](https://coinhunterstr.com/category/testnet/ target="_blank")
+  ## Yeni Başladım Rehberi; [Coin Hunters target="_blank"](https://coinhunterstr.com/category/testnet/)
   ### 1. [Testnet ve Node test kurulum rehberi Bölüm-1](https://coinhunterstr.com/testnet-ve-node-kurulum-rehberi/)
   ### 2. [Yeni Chrome Tarayıcı nasıl açarım?](https://coinhunterstr.com/yeni-chrome-tarayici-nasil-acarim/)
   ### 3. [Ücretsiz Sunucu Kiralama](https://coinhunterstr.com/ucretsiz-sunucu-nasil-kiralarim/)
