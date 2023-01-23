@@ -55,8 +55,18 @@ nano .env
 ```
 ## Bu kısıma devam etmeden önce sıfırdan metamask oluşturup token alıyoruz, veya testnetler için kullandığın metamaskı'ın private key anahtarı gerekiyor.
 ### Metamask Private Key alma;
-> Metamask cüzdanımızı oluşturduktan sonra; Aşağıdaki görseldeki adımları takip ederek private key'inizi alabilirsiniz.
+> Metamask cüzdanımızı oluşturduktan sonra; Aşağıda bulunan görseldeki adımları takip ederek private key'inizi alabilirsiniz.
 ![matemask-private-key](https://user-images.githubusercontent.com/111747226/214060644-f8045d6d-2bd7-47de-80ee-046e859fe9fe.png)
+
+## Taiko Platform Testnet Rehberine  <a href="https://coinhunterstr.com/taiko-genel-platform-testneti/" target="_blank"> Buradan </a>
+
+## Metamask Cüzdanınıza Taiko A1 ağını ekleme;
+Taiko A1 ağını cüzdanınıza ekleyin.
+<a href="https://taiko.xyz/docs/alpha-1-testnet-guide/configure-wallet" target="_blank"> Taiko A1 Ağını Ekleme </a>
+
+## Taiko Faucet
+Ethereum A1 için Faucetten token isteyin.
+<a href="https://taiko.xyz/docs/alpha-1-testnet-guide/request-from-faucet" target="_blank"> Taiko A1 Ağını Faucet </a>
 
 
 ## Yukarıdaki komutları girince açılacak ekran görselde ki gibi.
