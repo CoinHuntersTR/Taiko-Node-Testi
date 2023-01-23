@@ -89,6 +89,21 @@ docker compose up -d
 
 ![taiko-node](https://user-images.githubusercontent.com/111747226/214062692-63e3c271-754f-42a7-a7b0-09a75c690aaa.png)
 
+## Nasıl Çalıştığını görmek için
+> Aşağıdaki komutu yazıyoruz.
+```
+docker container ls
+```
+>Aşağdaki görsele işaretlediğim satırdakine benzer kod alacaksınız., "CONTANIER ID yazan rakamları bir yere not edin.
+![docker-id](https://user-images.githubusercontent.com/111747226/214063387-4d6d696c-01f8-46d2-a760-26942361de98.png)
+
+
+## Nasıl Çalıştığını görmek için
+> Yukarıdaki görselde "CONTAINER ID" alıyoruz. CONTAINER ID yazan yere, ekleyip çalıştırınca node durumunu görebilirsiniz.
+```
+docker logs CONTAINER ID --follow
+```
+
 ## Taiko yatırımını açıklamamış projelerden birisidir.
 
 
@@ -97,8 +112,8 @@ docker compose up -d
 
 
 
-## Iron Fish Discord kanalına katılmayı unutmayın;
-### [Discord](https://discord.gg/35ZxaUquTc)
+## Taiko Discord kanalına katılmayı unutmayın;
+### [Discord](https://discord.gg/taikoxyz)
 
 ## Yarım için telegram kanalımız;
 ### [Coin Hunters Telegram](https://t.me/CoinHuntersTR)
